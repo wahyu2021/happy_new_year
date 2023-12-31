@@ -28,7 +28,7 @@ function App() {
             loop={false}
             cursor
             cursorStyle={"_"}
-            typeSpeed={100}
+            typeSpeed={70}
             deleteSpeed={50}
             delaySpeed={1000}
           />
@@ -41,6 +41,7 @@ function App() {
                 "Selamat",
                 "Tahun",
                 "Baru",
+                "Semuanya",
                 "✨HAPPY NEW YEAR 2024✨",
               ])
             }
